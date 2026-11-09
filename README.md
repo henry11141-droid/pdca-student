@@ -3,7 +3,7 @@
 > 老師：劉昌瀚｜新楊平社區大學、中原大學 股票課程
 > ⚠️ 全部為教學工具，**不構成投資建議**。
 
-## 📡 回測規則卡（最新：v1.0，2026/11/01）
+## 📡 回測規則卡（最新：v1.3，2026/11/09）
 - 檔案：[rules_card.md](rules_card.md)
 - 給 AI 讀的固定網址：https://raw.githubusercontent.com/henry11141-droid/pdca-student/main/rules_card.md
 - PDCA 教練 v2.0 以後，每次對話會自動讀這個網址，學生不必換檔。
